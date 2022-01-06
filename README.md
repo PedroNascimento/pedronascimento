@@ -1,6 +1,6 @@
 ### Olá! Tudo bem? Sou o Pedro Nascimento 👋
 
-- 💻 Atualmente estou estudando React, Typescript e NodeJS
+- 💻 Atualmente estou estudando HTML, CSS, Javascript, React, Typescript e NodeJS
 
 <div align="center">
   <a href="https://github.com/PedroNascimento">
