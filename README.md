@@ -55,6 +55,7 @@ Se quiser conversar sobre tecnologia, colaborar em algo ou apenas trocar ideias,
 
 CentralizaMEI – micro-SaaS para gestão simplificada do MEI (em desenvolvimento).
 WalletGuard – Aplicação Web para Gestão de Finanças Pessoais.
+
 ---
 
 Se quiser ver algum projeto funcionando com deploy, posso te mandar o link! 😉
