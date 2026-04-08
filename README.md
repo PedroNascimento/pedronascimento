@@ -24,6 +24,8 @@ Atualmente desenvolvendo o **JuriCRM** — um SaaS multi-tenant para gestão de 
 
 ## Stack
 
+<div align="center">
+
 **Frontend & Full-stack**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -49,8 +51,10 @@ Atualmente desenvolvendo o **JuriCRM** — um SaaS multi-tenant para gestão de 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner_VPS-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Hetzner VPS](https://img.shields.io/badge/Hetzner_VPS-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=flat-square)
+
+</div>
 
 ---
 
@@ -69,7 +73,7 @@ Atualmente desenvolvendo o **JuriCRM** — um SaaS multi-tenant para gestão de 
 
 <div align="center">
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/pedronascimento)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimento&layout=compact&langs_count=7&theme=dracula)](https://github.com/pedronascimento)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/PedroNascimento)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNascimento&layout=compact&langs_count=7&theme=dracula)](https://github.com/PedroNascimento)
 
 </div>
